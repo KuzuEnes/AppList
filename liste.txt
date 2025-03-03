@@ -1,8 +1,8 @@
 --- Twitter ---
 
-Post Paylaşımı
+Yorum
 Beğenmek
-Yorum 
+Post Paylaşımı
 Takip Etmek 
 Büyük kitleye ulaşabilmek
 
